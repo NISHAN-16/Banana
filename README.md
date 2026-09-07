@@ -33,7 +33,6 @@ if (x < y) {
 * Rajiv Gautam
 * Nishan Thapa
 
-
 ## Project Structure
 
 The project will contain the language design, source code, sample programs, and tests as development continues.
